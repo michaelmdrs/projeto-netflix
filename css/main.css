@@ -1,0 +1,36 @@
+:root{
+    --primary-color: #E50914;
+    --secondary-color: #141414;
+    --terceary-color: #aaa;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: var(--secondary-color);
+}
+
+header .container {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+header .logo {
+    color: var(--primary-color);
+    font-family: 'Bebas Neue', cursive;
+}
+
+header nav a {
+    color: var(--terceary-color);
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+header nav a:hover {
+    color: #fff;
+}
