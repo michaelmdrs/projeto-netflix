@@ -59,8 +59,41 @@ header nav a:hover {
 
 .film-principal .sinopse {
     margin-bottom: 50px;
+    margin-top: 10px;
 }
 
 .title {
     font-size: 45px;
+    margin-top: 15%;
+}
+
+.btn-primary {
+    background-color: rgba(0, 0, 0, .50);
+    border: none;
+    border-radius: 2px;
+    color: #fff;
+    cursor: pointer;
+
+    margin: 15px;
+    padding: 15px 30px;
+
+    transition: .3s ease all;
+}
+
+.btn-primary:hover {
+    background: #aaa;
+    color: #000;
+    
+}
+
+.btn-primary i {
+    margin-right: 5px;
+}
+
+.container {
+    margin-left: 20px;
+}
+
+.film-principal .container {
+    width: 70%;
 }
