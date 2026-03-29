@@ -1,13 +1,12 @@
-## Projeto Netflix :tv:
+## Projeto Streaming :tv:
 
-### Trabalhando os conceitos de HTML5, CSS3 e Javascript
+Nesse projeto o objetivo foi recriar um site baseado no design do site da Netflix. Onde vamos poder usar toda nossa imaginação e praticar tudo aquilo que já vimos de HTML5, CSS3 e Javascript. 
 
-Nesse projeto iremos, recriar um site baseado no design do site da Netflix. Onde vamos poder usar toda nossa imaginação e praticar tudo aquilo que já vimos de HTML5, CSS3 e Javascript. 
-
-- Modelo e escopo do site original
-- HTML5
-- CSS3
-- JAVASCRIPT
+- ### 📌 Clone Netflix
+Aplicação front-end que simula a interface da Netflix.  
+- **Tecnologias:** React, CSS3, Javascript
+- **Funcionalidades:** listagem dinâmica de filmes, design responsivo  
+- [🔗 Repositório](https://github.com/michaelmdrs/projeto-netflix/tree/master) | ![screenshot](https://github.com/michaelmdrs/projeto-netflix/blob/master/img/home.png)
 
 
 
